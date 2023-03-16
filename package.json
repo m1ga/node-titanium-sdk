@@ -28,9 +28,9 @@
   },
   "dependencies": {
     "@babel/core": "7.8.7",
-    "@babel/parser": "7.8.3",
+    "@babel/parser": "7.8.8",
     "@babel/plugin-transform-property-literals": "7.8.3",
-    "@babel/preset-env": "7.8.2",
+    "@babel/preset-env": "7.8.7",
     "async": "3.1.0",
     "babel-plugin-transform-titanium": "0.1.1",
     "babel-preset-minify": "0.5.2",
